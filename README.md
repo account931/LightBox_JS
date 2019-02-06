@@ -1,6 +1,8 @@
 # LightBox_JS - JS plugin for images gallery, opens a clicked image in full screen modal window
+
 How to use:
-1.Wrap images to one <div class="thumbnails">
+
+1.Wrap images to one div class="thumbnails">
 2. Init Lightbox div:  $(function() { $('#thumbnails a').lightBox(); });
 
 
