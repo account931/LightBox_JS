@@ -20,3 +20,4 @@ Initialize with HTML
 <a href="images/image-2.jpg" data-lightbox="roadtrip">Image #2</a>
 <a href="images/image-3.jpg" data-lightbox="roadtrip">Image #3</a>
 <a href="images/image-4.jpg" data-lightbox="roadtrip">Image #4</a>
+ 
