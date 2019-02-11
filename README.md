@@ -7,10 +7,15 @@ How to use:
 
 
 
-VARIANT 2 (UNTESTED)
+VARIANT 2 (Successfully tested)
 =============================================================
-OR You can try this LightBox(below), usage is a bit different from above.Below LightBox is not tested yet.
+OR You can try this LightBox(below), usage is a bit different from above. Below LightBox was already successfully tested.
 https://lokeshdhakar.com/projects/lightbox2/
+
+Firstly, add in head:
+<link href="library/lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
+Secondly, add strictly before </body>:
+<script src="library/lightbox2-master/dist/js/lightbox.js">
 
 Initialize with HTML
 1.Single images. Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image. For example:
@@ -20,4 +25,3 @@ Initialize with HTML
 <a href="images/image-2.jpg" data-lightbox="roadtrip">Image #2</a>
 <a href="images/image-3.jpg" data-lightbox="roadtrip">Image #3</a>
 <a href="images/image-4.jpg" data-lightbox="roadtrip">Image #4</a>
- 
