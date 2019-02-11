@@ -14,6 +14,7 @@ https://lokeshdhakar.com/projects/lightbox2/
 
 Firstly, add in head:
 link href="library/lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
+
 Secondly, add strictly before /body>:
 script src="library/lightbox2-master/dist/js/lightbox.js">
 
