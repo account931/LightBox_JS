@@ -13,9 +13,9 @@ OR You can try this LightBox(below), usage is a bit different from above. Below 
 https://lokeshdhakar.com/projects/lightbox2/
 
 Firstly, add in head:
-<link href="library/lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
-Secondly, add strictly before </body>:
-<script src="library/lightbox2-master/dist/js/lightbox.js">
+link href="library/lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
+Secondly, add strictly before /body>:
+script src="library/lightbox2-master/dist/js/lightbox.js">
 
 Initialize with HTML
 1.Single images. Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image. For example:
